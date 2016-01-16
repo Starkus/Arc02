@@ -1,0 +1,27 @@
+{"objects": [
+	{"name": "models/350z.obj",
+	"position": {"x": "0.0",
+				 "y": "0.0",
+				 "z": "0.0"}
+	},
+	{"name": "models/350z_wheel.obj",
+	"position": {"x": "0.0",
+				 "y": "0.0",
+				 "z": "0.0"}
+	},
+	{"name": "models/350z_wheel.obj",
+	"position": {"x": "0.0",
+				 "y": "0.0",
+				 "z": "0.0"}
+	},
+	{"name": "models/350z_wheel.obj",
+	"position": {"x": "0.0",
+				 "y": "0.0",
+				 "z": "0.0"}
+	},
+	{"name": "models/350z_wheel.obj",
+	"position": {"x": "0.0",
+				 "y": "0.0",
+				 "z": "0.0"}
+	}
+]}

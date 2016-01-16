@@ -1,0 +1,138 @@
+# Blender MTL File: 'ClioV6.blend'
+# Material Count: 13
+
+newmtl BackLights
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_backlights.png
+
+newmtl BorderShadow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\border_shadow.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\border_shadow.png
+
+newmtl Floor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\floor.png
+
+newmtl HeadLights
+Ns 37.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_headlights.png
+
+newmtl Interior
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_interior.png
+
+newmtl MiscAlphaStuff
+Ns 74.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_random_alpha_stuff.png
+map_Bump C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\clio_random_alpha_stuff_nor.png
+map_Ks C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\clio_random_alpha_stuff.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\clio_random_alpha_stuff.png
+
+newmtl MiscStuff
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_random_stuff.png
+
+newmtl MiscStuffSp
+Ns 180.392157
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.700000 0.700000 0.700000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_random_stuff.png
+
+newmtl Paint
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.558554 0.000000 0.000961
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+refl C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\reflection.png
+
+newmtl Plate
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\nfsc_plate.png
+
+newmtl Retina
+Ns 488.235294
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_headlights_cover.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\clio_headlights_cover.png
+
+newmtl Retina_back
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_backlights_cover.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\clio_backlights_cover.png
+
+newmtl Windows
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.095421 0.095421 0.095421
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_rear_window.png

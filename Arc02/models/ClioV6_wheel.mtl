@@ -1,0 +1,46 @@
+# Blender MTL File: 'ClioV6.blend'
+# Material Count: 4
+
+newmtl BrakeDisc
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\nfsc_brakedisc.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\nfsc_brakedisc.png
+
+newmtl Rim
+Ns 425.490196
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\clio_rim.png
+refl C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\reflection.png
+
+newmtl Tire
+Ns 317.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\nfsc_tire.png
+map_Bump C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\nfsc_tire_nor.png
+
+newmtl WheelBackgr
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\Clio\tire_backgr.png
+map_d C:\\Users\\emili\\Documents\\MEGA\\eclipse_workspace\\Arc02\\textures\\Clio\\tire_backgr.png

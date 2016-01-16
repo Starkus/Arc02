@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl material_113
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\black_yellow.png
+
+newmtl material_139
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.050708 0.049071 0.044414
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\emili\Documents\MEGA\eclipse_workspace\Arc02\textures\platform.png
